@@ -30,10 +30,13 @@ Sl. No. Apparatus Specification Quantity
 
 
 ## Output Calculation:
-
-
+<img width="1100" height="568" alt="image" src="https://github.com/user-attachments/assets/c2350c5a-75a7-45b8-9494-dd0aef19bf55" />
+<img width="1139" height="583" alt="image" src="https://github.com/user-attachments/assets/9287c6a8-904c-4e68-8645-6820604a6770" />
 
 ## Output Tabulation:
+<img width="988" height="452" alt="image" src="https://github.com/user-attachments/assets/0c96559a-087d-41ef-8f7e-f6a29a9bf3d6" />
+<img width="1139" height="534" alt="image" src="https://github.com/user-attachments/assets/ec60a68a-dd3a-4df8-a618-20b61386ad08" />
+
 
 ## Result:thus we have  verified  the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
   
